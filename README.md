@@ -9,7 +9,7 @@ This repo contains the code to train and evaluate FCN8 network as described in [
 You need to install :
 - [Theano](https://github.com/Theano/Theano). Preferably the last version
 - [Keras](https://github.com/fchollet/keras)
-- The dataset(http://adas.cvc.uab.es/endoscene)
+- The dataset(http://www.cvc.uab.es/CVC-Colon/index.php/databases/cvc-endoscenestill/), needs user registration
 - (Recommend) [The new Theano GPU backend](https://github.com/Theano/libgpuarray). Compilation will be much faster.
 
 ## Run experiments
